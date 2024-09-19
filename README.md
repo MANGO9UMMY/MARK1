@@ -44,4 +44,4 @@ markdown이란?
 
 [고려대](http://www.korea.ac.kr,"고려대학교 홈페이지")
 
-!
+![대표이미지](./1.jpg)
